@@ -1,5 +1,3 @@
-# Theory of ML
-
 ## Members
 
 * Beatrice Acciaio
