@@ -24,6 +24,9 @@
 
 In no particular order:
 
+* >Lin, Tengmark and Rolinck, [
+Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225), 2016 (MB)
+
 * Autoencoders, GANs ... (TX)
    * GoodFellow et al, [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), NIPS, 2014 
    * Kingma and Welling, [Auto-encoding Variational Bayes](https://arxiv.org/abs/1312.6114), ICLR 2014
