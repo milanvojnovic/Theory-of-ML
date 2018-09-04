@@ -24,7 +24,7 @@
 
 In no particular order:
 
-* >Lin, Tengmark and Rolinck, [
+* Lin, Tengmark and Rolinck, [
 Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225), 2016 (MB)
 
 * Autoencoders, GANs ... (TX)
