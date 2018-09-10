@@ -24,6 +24,8 @@
 
 In no particular order:
 
+* Charikar and Siminelakis, [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), FOCS 2017 (ZL)
+
 * Lin, Tengmark and Rolinck, [
 Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225), 2016 (MB)
 
