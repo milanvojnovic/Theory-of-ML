@@ -24,6 +24,8 @@
 
 In no particular order:
 
+* Colombo et al, [Tomography of the London Underground: a Scalable Model for Origin-Destination Data](https://papers.nips.cc/paper/6899-tomography-of-the-london-underground-a-scalable-model-for-origin-destination-data), NIPS 2017 (KZ)
+
 * Li, [Deep Reinforcement Learning: An Overview](https://arxiv.org/pdf/1701.07274.pdf), 2017; Mnih et al, [Human Level Control through Deep Reinforcement Learning](https://www.nature.com/articles/nature14236), Nature 518:529-533, 2015 (YC)
 
 * Arora and Risteski, [Provable Benefits of Representation Learning](https://arxiv.org/pdf/1706.04601.pdf), 2017 (KK)
