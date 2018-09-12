@@ -24,7 +24,7 @@
 
 In no particular order:
 
-* Li, [Deep Reinforcement Learning](https://arxiv.org/pdf/1701.07274.pdf), 2017; Mnih et al, [Human level control through deep reinforcement learning](https://www.nature.com/articles/nature14236), Nature 518:529-533, 2015 (YC)
+* Li, [Deep Reinforcement Learning](https://arxiv.org/pdf/1701.07274.pdf), 2017; Mnih et al, [Human Level Control through Deep Reinforcement Learning](https://www.nature.com/articles/nature14236), Nature 518:529-533, 2015 (YC)
 
 * Arora and Risteski, [Provable Benefits of Representation Learning](https://arxiv.org/pdf/1706.04601.pdf), 2017 (KK)
 
