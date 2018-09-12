@@ -4,16 +4,16 @@
 * Matteo Barigozzi
 * Wicher Bergsma
 * Yining Chen
-* Qiang Cheng
+* Qian Cheng
 * Piotr Fryzlewicz
 * Kostas Kalogeropoulos
-* Konstantin Kutzev
+* Konstantin Kutzkov
 * Clifford Lam
 * Zhenming Liu
 * Jose-Manuel Pedraza-Ramirez
 * Milan Vojnovic
 * Weiguan Wang
-* Xinghao Xiao
+* Xinghao Qiao
 * Tianlin Xu
 * Qiwei Yao
 * Yianlin Yi
@@ -23,6 +23,8 @@
 ## Reading group sessions
 
 In no particular order:
+
+* Arora and Risteski, [Provable benefits of representation learning](https://arxiv.org/pdf/1706.04601.pdf), 2017 [KK]
 
 * Charikar and Siminelakis, [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), FOCS 2017 (ZL)
 
