@@ -26,12 +26,12 @@ In no particular order:
 
 * Li, [Deep Reinforcement Learning](https://arxiv.org/pdf/1701.07274.pdf), 2017; Mnih et al, [Human level control through deep reinforcement learning](https://www.nature.com/articles/nature14236), Nature 518:529-533, 2015 (YC)
 
-* Arora and Risteski, [Provable benefits of representation learning](https://arxiv.org/pdf/1706.04601.pdf), 2017 (KK)
+* Arora and Risteski, [Provable Benefits of Representation Learning](https://arxiv.org/pdf/1706.04601.pdf), 2017 (KK)
 
 * Charikar and Siminelakis, [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), FOCS 2017 (ZL)
 
 * Lin, Tengmark and Rolinck, [
-Why does deep and cheap learning work so well?](https://arxiv.org/abs/1608.08225), 2016 (MB)
+Why does Deep and Cheap Learning Work so Well?](https://arxiv.org/abs/1608.08225), 2016 (MB)
 
 * Autoencoders, GANs ... (TX)
    * GoodFellow et al, [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), NIPS, 2014 
