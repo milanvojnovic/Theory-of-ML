@@ -22,7 +22,22 @@
 
 ## Reading group sessions
 
-In no particular order:
+### Schedule
+
+#### Michaelmans Term
+
+The reading group sessions take place every second **Tuesday, 15:00-16:30**.
+
+| Date                      | Topic                                                                  |
+|---------------------------|------------------------------------------------------------------------|
+| 2nd October, 2018         |                                                                        |
+| 16th October, 2018        |                                                                        |
+| 30th October, 2018        |                                                                        |
+| 13th November, 2018       |                                                                        |
+| 27th November, 2018       |                                                                        |
+|---------------------------|------------------------------------------------------------------------|
+
+Proposed papers, in no particular order:
 
 * Colombo et al, [Tomography of the London Underground: a Scalable Model for Origin-Destination Data](https://papers.nips.cc/paper/6899-tomography-of-the-london-underground-a-scalable-model-for-origin-destination-data), NIPS 2017 (KZ)
 
