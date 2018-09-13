@@ -34,7 +34,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**.
 | 2 | 16th Oct, 2018        |  [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Polson and Sokolov, Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
 | 3 | 30th Oct, 2018        |  [Provable Benefits of Representation Learning](https://arxiv.org/pdf/1706.04601.pdf), Arora and Risteski, 2017                                                                                  | Konstantin Kutzkov    |
 | 3 | 13th Nov, 2018       |  [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), GoodFellow et al, NIPS, 2014                                                             | Tianlin Xu          |
-| 4 | 27th Nov, 2018       |  [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), Charikar and Siminelakis, FOCS 2017                                                                | Zhenming Liu        |
+| 4 | 27th Nov, 2018       |  [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), Charikar and Siminelakis, FOCS, 2017                                                                | Zhenming Liu        |
 
 #### Lent Term
 
@@ -50,7 +50,7 @@ Proposed papers, in no particular order:
 
 * Arora and Risteski, [Provable Benefits of Representation Learning](https://arxiv.org/pdf/1706.04601.pdf), 2017 (KK)
 
-* Charikar and Siminelakis, [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), FOCS 2017 (ZL)
+* Charikar and Siminelakis, [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), FOCS, 2017 (ZL)
 
 * Lin, Tengmark and Rolinck, [
 Why does Deep and Cheap Learning Work so Well?](https://arxiv.org/abs/1608.08225), 2016 (MB)
