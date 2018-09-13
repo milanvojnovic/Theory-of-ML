@@ -30,7 +30,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**.
 
 | # | Date                      | Topic                                                             | Discussion lead |
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | 2nd Oct, 2018         |  [Deep Learning for Finance: Deep Portfolios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2838013), Heaton, Polson and Witte, SSRN, 2016 (CL)                                     | Clifford Lam    |
+| 1 | 2nd Oct, 2018         |  [Deep Learning for Finance: Deep Portfolios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2838013), Heaton, Polson and Witte, 2016                                                | Clifford Lam    |
 | 2 | 16th Oct, 2018        |  [Deep Learning: A Bayesian Perspective](https://projecteuclid.org/euclid.ba/1510801992), Polson and Sokolov, Bayesian Analysis, 2017                                                         | Kostas Kalogeropoulos |
 | 3 | 30th Oct, 2018        |  [Provable Benefits of Representation Learning](https://arxiv.org/pdf/1706.04601.pdf), Arora and Risteski, 2017                                                                                  | Konstantin Kutzkov    |
 | 3 | 13th Nov, 2018       |  [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), GoodFellow et al, NIPS, 2014                                                             | Tianlin Xu          |
