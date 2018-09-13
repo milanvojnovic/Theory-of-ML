@@ -28,13 +28,13 @@
 
 The reading group sessions take place every second **Tuesday, 15:00-16:30**.
 
-| # | Date                      | Topic                                                                  |
-|---|---------------------------|------------------------------------------------------------------------|
-| 1 | 2nd October, 2018         |                                                                        |
-| 2 | 16th October, 2018        |                                                                        |
-| 2 | 30th October, 2018        |                                                                        |
-| 3 | 13th November, 2018       |                                                                        |
-| 4 | 27th November, 2018       |                                                                        |
+| # | Date                      | Topic                                                                  | Discussion lead |
+|---|---------------------------|------------------------------------------------------------------------|-----------------|
+| 1 | 2nd October, 2018         |  Heaton, Polson and Witte, [Deep Learning for Finance: Deep Portfolios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2838013), SSRN, 2016 (CL) | Clifford Lam                              |
+| 2 | 16th October, 2018        |                                                                        |                 |
+| 2 | 30th October, 2018        |                                                                        |                 |
+| 3 | 13th November, 2018       |                                                                        |                 |
+| 4 | 27th November, 2018       |                                                                        |                 |
 
 Proposed papers, in no particular order:
 
