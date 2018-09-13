@@ -36,6 +36,12 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**.
 | 3 | 13th Nov, 2018       |  [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), GoodFellow et al, NIPS, 2014                                                             | Tianlin Xu          |
 | 4 | 27th Nov, 2018       |  [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), Charikar and Siminelakis, FOCS 2017                                                                | Zhenming Liu        |
 
+#### Lent Term
+
+To be filled in sooner the date
+
+## Proposed papers
+
 Proposed papers, in no particular order:
 
 * Colombo et al, [Tomography of the London Underground: a Scalable Model for Origin-Destination Data](https://papers.nips.cc/paper/6899-tomography-of-the-london-underground-a-scalable-model-for-origin-destination-data), NIPS 2017 (KZ)
