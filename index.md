@@ -9,6 +9,7 @@
 * Kostas Kalogeropoulos
 * Konstantin Kutzkov
 * Clifford Lam
+* Yirui Liu
 * Zhenming Liu
 * Jose-Manuel Pedraza-Ramirez
 * Milan Vojnovic
@@ -43,6 +44,10 @@ To be filled in sooner the date
 ## Proposed papers
 
 Proposed papers, in no particular order:
+
+* Ranganath and Blei, [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), JASA, 2018 (XQ / YL)
+
+* Qiao and Liu, Deep Hierarhical Dirichlet Process, in preparation (XQ / YL)
 
 * Colombo et al, [Tomography of the London Underground: a Scalable Model for Origin-Destination Data](https://papers.nips.cc/paper/6899-tomography-of-the-london-underground-a-scalable-model-for-origin-destination-data), NIPS 2017 (KZ)
 
