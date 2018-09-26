@@ -34,7 +34,7 @@ The reading group sessions take place every second **Tuesday, 15:00-16:30**.
 |---|---------------------------|-------------------------------------------------------------------|-----------------|
 | 1 | 2nd Oct, 2018         |  [Deep Learning for Finance: Deep Portfolios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2838013), Heaton, Polson and Witte, 2016                                                | Clifford Lam    |
 | 2 | 16th Oct, 2018        |  [No Spurious Local Minima in Nonconvex Low Rank Problems: A Unified Geometric Analysis](http://proceedings.mlr.press/v70/ge17a/ge17a-supp.pdf), Ge, Jin and Zheng, ICML, 2017                                                         | Milan Vojnovic |
-| 3 | 30th Oct, 2018        |  [Provable Benefits of Representation Learning](https://arxiv.org/pdf/1706.04601.pdf), Arora and Risteski, 2017                                                                                  | Konstantin Kutzkov    |
+| 3 | 30th Oct, 2018        |  [A Latent Variable Model Approach to PMI-based Word Embeddings](https://transacl.org/ojs/index.php/tacl/article/view/742), Arora, Li, Liang, Ma, and Risteski, ACL 2016                                                                                  | Konstantin Kutzkov    |
 | 4 | 13th Nov, 2018       |  [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), GoodFellow et al, NIPS, 2014                                                             | Tianlin Xu          |
 | 5 | 27th Nov, 2018       |  [Hashing-Based-Estimators for Kernel Density in High Dimensions](http://ieee-focs.org/FOCS-2017-Papers/3464b032.pdf), Charikar and Siminelakis, FOCS, 2017                                                                | Zhenming Liu        |
 
@@ -45,6 +45,10 @@ To be filled in sooner the date
 ## Proposed papers
 
 Proposed papers, in no particular order:
+
+* Arora, Li, Liang, Ma, and Risteski, [A Latent Variable Model Approach to PMI-based Word Embeddings](https://transacl.org/ojs/index.php/tacl/article/view/742), ACL 2016 (KK)
+   * Levy and Goldberg, [Neural Word Embedding
+as Implicit Matrix Factorization](https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf), NIPS 2014 
 
 * Sirignano and Spiliopoulos, [Mean Field Analysis of Neural Networks](https://arxiv.org/abs/1805.01053), 2018 (LC)
 
