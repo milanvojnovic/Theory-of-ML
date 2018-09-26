@@ -3,6 +3,7 @@
 * Beatrice Acciaio
 * Matteo Barigozzi
 * Wicher Bergsma
+* Luciano Campi
 * Yining Chen
 * Qian Cheng
 * Piotr Fryzlewicz
