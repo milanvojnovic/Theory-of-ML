@@ -46,6 +46,8 @@ To be filled in sooner the date
 
 Proposed papers, in no particular order:
 
+* Sirignano and Spiliopoulos, [Mean Field Analysis of Neural Networks](https://arxiv.org/abs/1805.01053), 2018 (LC)
+
 * Ranganath and Blei, [Correlated Random Measures](https://www.tandfonline.com/doi/full/10.1080/01621459.2016.1260468), JASA, 2018 (XQ / YL)
 
 * Qiao and Liu, Deep Hierarhical Dirichlet Process, in preparation, 2018 (XQ / YL)
